@@ -302,4 +302,13 @@ This project is open source and available under the MIT License.
 
 **Nirvan**
 
+## 📚 Data Source
+
+**Dataset**: [Loan Approval Classification Dataset](https://www.kaggle.com/)  
+**Description**: Synthetic Data for binary classification on Loan Approval  
+**Author**: Ta-wei Lo  
+**Platform**: Kaggle
+
+---
+
 ⭐ **If you found this project helpful, please give it a star!** ⭐
